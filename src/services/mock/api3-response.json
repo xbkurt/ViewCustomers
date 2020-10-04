@@ -1,0 +1,28 @@
+{
+    "api3": {
+      "swipers": [
+        {
+          "swiper": {
+            "image_set": [
+              {
+                "​image_url": "https://via.placeholder.com/800x800/8EBD37"
+              },
+              {
+                "​image_url": "https://via.placeholder.com/800x800/5C7A23"
+              },
+              {
+                "​image_url": "https://via.placeholder.com/800x800/BCFA48"
+              },
+              {
+                "image_url": "https://via.placeholder.com/800x800/2C3B11"
+              },
+              {
+                "image_url": "https://via.placeholder.com/800x800/A9E042"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+
