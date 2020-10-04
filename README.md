@@ -6,6 +6,17 @@ React Native Application
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 Clone the project then run `npm install`
 
+## Libraries
+
+Panresponder(https://reactnative.dev/docs/panresponder)
+
+React-native-gesture-handler(https://docs.swmansion.com/react-native-gesture-handler/docs/)
+
+Re-animated(https://docs.swmansion.com/react-native-reanimated/)
+
+This project includes some libraries for using Image Swiper.
+
+
 ## Table of Contents
 
 * [Available Scripts](#available-scripts)
